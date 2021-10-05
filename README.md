@@ -1,5 +1,5 @@
 # Spotted-tail quoll population projection model
-<img align="right" src="quoll.png" alt="spotted-tail quoll" width="200" style="margin-top: 20px">
+<img align="right" src="dasyurus.png" alt="spotted-tail quoll" width="200" style="margin-top: 20px">
 
 Stochastic Leslie matrix population model for the spotted-tail quoll (<a href="https://australian.museum/learn/animals/mammals/spotted-tailed-quoll/"><i>Dasyurus maculatus</i></a>)
 
