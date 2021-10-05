@@ -18,4 +18,4 @@ The quoll model was originally presented in the paper:
 <a href="http://www.flinders.edu.au/people/corey.bradshaw">BRADSHAW, CJA</a>, <a href="https://www.utas.edu.au/profiles/staff/biological-sciences/chris-johnson">CN JOHNSON</a>, <a href="http://www.flinders.edu.au/people/john.llewelyn">J LLEWELYN</a>, <a href="https://researchnow.flinders.edu.au/en/persons/vera-weisbecker">V WEISBECKER</a>, <a href="https://researchportal.helsinki.fi/en/persons/giovanni-strona">G STRONA</a>, <a href="http://www.flinders.edu.au/people/frederik.saltre">F SALTRÉ</a>. 2021. Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna. <i>eLife</i> 10: e63870. doi:<a href="http://doi.org/10.7554/eLife.63870">10.7554/eLife.63870</a>
 
 ## R code
-<code>DasyurusPopModel.R</code
+<code>DasyurusPopModel.R</code>
