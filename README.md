@@ -14,3 +14,6 @@ This quoll model was originally presented in the paper:
 
 ## R code
 <code>DasyurusPopModel.R</code>
+
+## Source file
+<code>matrixOperators.r</code>
